@@ -783,3 +783,7 @@ code {
 .scroller-hE2gWq {
     padding: 16px !important;
 }
+
+.lookInverted-2mDUMi.colorBrand-I6CyqQ {
+    background-color: var(--brand-experiment);
+}
