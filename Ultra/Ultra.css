@@ -324,11 +324,11 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base-ZDDK0g.size24-15VPAv,
 .modeSelected-3DmyhH .mainContent-20q_Hp::before {
     position: relative;
     background-color: var(--selected-indicator);
-    box-shadow: 0 0 20px 4px var(--selected-indicator);
+    /*box-shadow: 0 0 20px 4px var(--selected-indicator);*/
     border-radius: 50%;
-    width: 5px;
-    height: 5px;
-    left: -11px;
+    width: 8px;
+    height: 8px;
+    left: 0;
 }
 
 .activity-2EQDZv .icon-Lupfh- {
