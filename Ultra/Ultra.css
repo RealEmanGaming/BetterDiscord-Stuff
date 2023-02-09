@@ -371,12 +371,14 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base-ZDDK0g.size24-15VPAv,
 
 .mentioned-Tre-dv:before {
     background-color: var(--brand-experiment);
-    box-shadow: 0 0 20px 4px var(--brand-experiment);
+    /*box-shadow: 0 0 20px 4px var(--brand-experiment);*/
 }
 
+/*
 .newMessagesBar-1hF-9G {
     box-shadow: 0 0 40px 4px var(--brand-experiment);
 }
+*/
 
 /*
 .unread-36eUEm {
@@ -758,6 +760,11 @@ code {
 
 .channelTextArea-1FufC0 {
     margin-bottom: 16px !important;
+}
+
+.wrapper-2SplAX {
+    margin-bottom: 16px !important;
+    background-color: var(--background-secondary) !important;
 }
 
 :root .members-3WRCEx .content-2a4AW9 {
