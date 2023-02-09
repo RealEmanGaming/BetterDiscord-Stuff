@@ -649,6 +649,10 @@ code {
     margin-right: 30px !important;
 }
 
+.scroller-kQBbkU ::-webkit-scrollbar-track {
+  margin-bottom: 52px;
+}
+
 .textScroller-dc9_kz {
     color: var(--text-normal);
 }
