@@ -787,3 +787,8 @@ code {
 .lookInverted-2mDUMi.colorBrand-I6CyqQ {
     background-color: var(--brand-experiment);
 }
+
+.lookFilled-yCfaCM.colorWhite-1H92hK,
+.lookFilled-yCfaCM.colorWhite-1H92hK:disabled {
+    background-color: var(--brand-experiment);
+}
