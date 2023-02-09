@@ -383,12 +383,9 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base-ZDDK0g.size24-15VPAv,
     height: 5px;
 }
 
-.chat-2ZfjoI .privateChannels-oVe7HL {
-    background-color: var(--background-primary) !important;
-}
-
+.chat-2ZfjoI .privateChannels-oVe7HL,
 .chat-2ZfjoI .content-2a4AW9 {
-    background-color: var(--background-secondary) !important;
+    background-color: var(--background-primary) !important;
 }
 
 .reactions-3ryImn {
