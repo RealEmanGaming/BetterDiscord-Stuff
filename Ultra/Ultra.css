@@ -700,3 +700,7 @@ code {
 .scrollerInner-2PPAp2 {
     scrollbar-color: var(--scrollbar-auto-scrollbar-color-thumb) transparent !important;
 }
+
+:root .members-3WRCEx .content-2a4AW9 {
+    background-color: var(--background-secondary) !important;
+}
