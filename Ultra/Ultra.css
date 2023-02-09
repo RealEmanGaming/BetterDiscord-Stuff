@@ -696,3 +696,7 @@ code {
 .avatarHint-k7pYop {
     top: 9px;
 }
+
+.scrollerInner-2PPAp2 {
+    scrollbar-color: var(--scrollbar-auto-scrollbar-color-thumb) transparent !important;
+}
