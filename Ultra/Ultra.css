@@ -405,15 +405,27 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base-ZDDK0g.size24-15VPAv,
 #app-mount .unread-36eUEm:after {
     content: "";
     position: absolute;
-    top: -18px;
-    left: 188px;
-    width: 30px !important;
-    height: 30px !important;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     background-color: var(--brand-experiment);
     border-radius: 100%;
     z-index: -2;
     animation: pulse 2s infinite;
     will-change: transform;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+        opacity: 1
+    }
+
+    100% {
+        transform: scale(2);
+        opacity: 0
+    }
 }
 
 .chat-2ZfjoI .privateChannels-oVe7HL,
