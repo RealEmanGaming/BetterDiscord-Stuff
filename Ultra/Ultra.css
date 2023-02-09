@@ -742,8 +742,16 @@ code {
     top: 9px;
 }
 
-.scrollerInner-2PPAp2 {
+.scroller-kQBbkU auto-2K3UW5 {
     scrollbar-color: var(--scrollbar-auto-scrollbar-color-thumb) transparent !important;
+}
+
+messagesWrapper-RpOMA3 {
+    margin-bottom: -52px;
+}
+
+.scrollerInner-2PPAp2 {
+    padding-bottom: 44px;
 }
 
 :root .members-3WRCEx .content-2a4AW9 {
