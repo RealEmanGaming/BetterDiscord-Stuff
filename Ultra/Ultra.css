@@ -551,7 +551,7 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base-ZDDK0g.size24-15VPAv,
 }
 
 .header-3OsQeK {
-    height: 48px;
+    height: 48px !important;
     display: flex;
     align-items: center;
 }
