@@ -23,7 +23,7 @@
 
 :root,
 .theme-dark {
-    --text-normal: #dcddde;
+    --text-normal: #abadb0;
     --text-muted: #4a4a52;
     --text-link: #6e6af6;
     --text-positive: #50dc7d;
@@ -59,6 +59,7 @@
     --selected-indicator: #97ffa5;
     --hover-indicator: #ffffff;
     --channels-default: #64646f;
+    --header-primary: #dfdfdf;
     --font: "Lato";
     --code-font: "Source Code Pro";
     --boost-bar: none;
