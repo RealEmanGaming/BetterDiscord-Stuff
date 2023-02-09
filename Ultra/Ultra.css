@@ -18,8 +18,8 @@ rect.pointerEvents-9SZWKj {
     stroke: var(--background-primary);
     stroke-width: 2px;
     mask: none;
-    ry: 4px;
-    rx: 4px;
+    ry: 15px;
+    rx: 15px;
 }
 
 .svg-2azL_l > svg > rect {
@@ -383,9 +383,12 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base-ZDDK0g.size24-15VPAv,
     height: 5px;
 }
 
-.chat-2ZfjoI .privateChannels-oVe7HL,
-.chat-2ZfjoI .content-2a4AW9 {
+.chat-2ZfjoI .privateChannels-oVe7HL {
     background-color: var(--background-primary) !important;
+}
+
+.chat-2ZfjoI .content-2a4AW9 {
+    background-color: var(--background-secondary) !important;
 }
 
 .reactions-3ryImn {
@@ -563,7 +566,7 @@ code {
 .members-3WRCEx > div,
 .container-2Oqvgx,
 .container-NkLXgf {
-    background-color: var(--background-primary);
+    background-color: var(--background-secondary);
 }
 
 .children-3xh0VB:after {
