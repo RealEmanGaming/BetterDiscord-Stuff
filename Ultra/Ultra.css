@@ -338,11 +338,11 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base-ZDDK0g.size24-15VPAv,
 .mainContent-20q_Hp:hover::before {
     position: relative;
     background-color: var(--hover-indicator);
-    box-shadow: 0 0 20px 4px var(--hover-indicator);
+    /*box-shadow: 0 0 20px 4px var(--hover-indicator);*/
     border-radius: 50%;
-    width: 5px;
-    height: 5px;
-    left: -11px;
+    width: 8px;
+    height: 8px;
+    left: -10px;
 }
 
 .toolbar-3_r2xA .icon-1ELUnB:nth-child(1),
@@ -391,7 +391,7 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base-ZDDK0g.size24-15VPAv,
     height: 8px;
     width: 8px;
     border-radius: 4px;
-    left: 4px;
+    left: 15px;
     -webkit-transition: box-shadow .2s ease;
     -ms-transition: box-shadow .2s ease;
     -o-transition: box-shadow .2s ease;
