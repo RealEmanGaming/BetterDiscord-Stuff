@@ -198,7 +198,6 @@ rect.pointerEvents-9SZWKj {
 }
 
 .membersWrap-3NUR2t {
-    margin-top: 20px;
     min-height: 100% !important;
 }
 
@@ -454,7 +453,6 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base-ZDDK0g.size24-15VPAv,
 .name-28HaxV,
 .channelName-3KPsGw {
     font-size: 11pt;
-    text-transform: capitalize !important;
 }
 
 .root-g14mjSL:not(.carouselModal-1eUFoq) {
@@ -493,7 +491,7 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base-ZDDK0g.size24-15VPAv,
 
 .scrollableContainer-15eg7h {
     border-radius: 20px;
-    min-height: 50px !important;
+    min-height: 45px !important;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -505,7 +503,7 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base-ZDDK0g.size24-15VPAv,
 }
 
 .header-3OsQeK {
-    height: 70px;
+    height: 45px;
     display: flex;
     align-items: center;
 }
@@ -541,7 +539,7 @@ code {
 .avatar-b5OQ1N,
 .avatar-2e8lTP,
 .avatar-3FKimL {
-    border-radius: 38%;
+    border-radius: 50%;
 }
 
 .replyBar-1oi75v,
@@ -551,15 +549,15 @@ code {
 
 .avatarHint-k7pYop foreignObject {
     mask: unset;
-    border-radius: 35% !important;
+    border-radius: 50% !important;
 }
 
 .avatarHintInner-2HUAWj {
-    border-radius: 35% !important;
+    border-radius: 50% !important;
 }
 
 .imageWrapper-oMkQl4 {
-    border-radius: 20px;
+    border-radius: 12px;
 }
 
 .members-3WRCEx,
