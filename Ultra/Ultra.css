@@ -792,3 +792,7 @@ code {
 .lookFilled-yCfaCM.colorWhite-1H92hK:disabled {
     background-color: var(--brand-experiment);
 }
+
+.userPopoutOverlayBackground-dKOOda {
+    padding-right: 8px;
+}
